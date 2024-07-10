@@ -4,7 +4,13 @@
 
 An independent AI research program created by [Harshit](https://researchrookie.substack.com/).
 
+I am an educator at ♥️ and I love to deconstruct topics to better understand and teach them. I am now embarking on a journey to re-learn the concepts of AI via this AI Research Program.
+
+I have designed this program to be thorough, exciting, gamified and hands-on. The program also draws inspiration from various Research Engineer roles at companies like [OpenAI](https://openai.com/careers/research-engineer/), [Anthropic](https://boards.greenhouse.io/anthropic/jobs/4019739008), [Meta](https://www.metacareers.com/v2/jobs/2780884748740452/), and the likes.
+
 The following curriculum is designed to help me get a deeper and thorough understanding of all important concepts in AI. 
+
+I am not pursuing this full-time. I am doing this for fun and to help myself and my friends.
 
 > ⚠️ This program is still under development and will be updated as I progress in my journey. Feel free to contribute to it by opening issues or suggesting improvements.
 
