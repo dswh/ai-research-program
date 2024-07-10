@@ -1,5 +1,5 @@
 # AI Research Program
-An independent AI research program created by Harshit.
+An independent AI research program created by [Harshit](https://researchrookie.substack.com/).
 
 The following curriculum is designed to help me get a deeper and thorough understanding of all important concepts in AI. 
 
