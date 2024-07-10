@@ -1,14 +1,23 @@
 # AI Research Program
+
+![AI Research Program](./images/cover.png)
+
 An independent AI research program created by [Harshit](https://researchrookie.substack.com/).
 
 The following curriculum is designed to help me get a deeper and thorough understanding of all important concepts in AI. 
 
-I will keep updating it as I progress in my journey.
+> ⚠️ This program is still under development and will be updated as I progress in my journey. Feel free to contribute to it by opening issues or suggesting improvements.
 
-> Feel free to tweak(for yourself) and suggest by opening issues in the repo.
+## How to consume this?
+- Beginners can start with the [Foundational Knowledge](#pillar-1-foundational-knowledge) section.
+- For all others who have some exposure to ML/DL, tweak the curriculum as per your level of understanding.
+- This curriculum is not supposed to be consumed in a linear fashion. You should start with the basics and gradually move towards more complex topics as per your goals and interests.
+
+To follow me in this journey, consider subscribing to my [weekly newsletter](https://researchrookie.substack.com/).
 
 ## Table of contents
 - [AI Research Program](#ai-research-program)
+  - [How to consume this?](#how-to-consume-this)
   - [Table of contents](#table-of-contents)
   - [Pillar 1: Foundational Knowledge](#pillar-1-foundational-knowledge)
   - [Pillar 2: Programming and Tools](#pillar-2-programming-and-tools)
