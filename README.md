@@ -10,19 +10,33 @@ I have designed this program to be thorough, exciting, gamified and hands-on. Th
 
 The following curriculum is designed to help me get a deeper and thorough understanding of all important concepts in AI. 
 
-I am not pursuing this full-time. I am doing this for fun and to help myself and my friends.
+## My learning approach
+I have a background in Data Science and ML and I've decided to take a recursive approach(going deeper as needed) based on my level of understanding.
+
+My primary purpose of starting this program is to dig deeper into **LLM research and engineering problems**.
+
+So, I'll start from Pillar 5, NLP/LLM research, how LLMs work, how they are pre-trained and how to finetune them. In the process, I will hop onto other Pillars to learn and re-learn a other fundamental concepts.
+
+Keep an eye on [weekly-notes](./weekly-notes) for my learnings and thoughts.
+
+I'll dedicate at least 1 hours daily to my learning.
 
 > ⚠️ This program is still under development and will be updated as I progress in my journey. Feel free to contribute to it by opening issues or suggesting improvements.
 
 ## How to consume this?
-- Beginners can start with the [Foundational Knowledge](#pillar-1-foundational-knowledge) section.
+- Beginners should start with the [Foundational Knowledge](#pillar-1-foundational-knowledge) section.
 - For all others who have some exposure to ML/DL, tweak the curriculum as per your level of understanding.
-- This curriculum is not supposed to be consumed in a linear fashion. You should start with the basics and gradually move towards more complex topics as per your goals and interests.
+- This curriculum is not supposed to be consumed in a linear fashion. Treat it more like a checklist. 
+- You should start with the basics and gradually move towards more complex topics as per your goals and interests.
 
-To follow me in this journey, consider subscribing to my [weekly newsletter](https://researchrookie.substack.com/).
+To follow me in this journey, consider subscribing to my:
+- [weekly newsletter](https://researchrookie.substack.com/).
+- Learning vlogs at [youtube](https://www.youtube.com/@DataSciencewithHarshit)
+- [Discord for discussions and sharing your learnings](https://discord.gg/ux6K7wEu)
 
 ## Table of contents
 - [AI Research Program](#ai-research-program)
+  - [My learning approach](#my-learning-approach)
   - [How to consume this?](#how-to-consume-this)
   - [Table of contents](#table-of-contents)
   - [Pillar 1: Foundational Knowledge](#pillar-1-foundational-knowledge)
