@@ -10,6 +10,24 @@ I have designed this program to be thorough, exciting, gamified and hands-on. Th
 
 The following curriculum is designed to help me get a deeper and thorough understanding of all important concepts in AI. 
 
+## Table of contents
+- [AI Research Program](#ai-research-program)
+  - [Table of contents](#table-of-contents)
+  - [My learning approach](#my-learning-approach)
+  - [How to consume this?](#how-to-consume-this)
+  - [Pillar 1: Foundational Knowledge](#pillar-1-foundational-knowledge)
+  - [Pillar 2: Programming and Tools](#pillar-2-programming-and-tools)
+  - [Pillar 3: Deep Learning Fundamentals](#pillar-3-deep-learning-fundamentals)
+  - [Pillar 4: Reinforcement Learning](#pillar-4-reinforcement-learning)
+  - [Pillar 5: NLP / LLM Research](#pillar-5-nlp--llm-research)
+  - [Pillar 6: Research Paper Analysis and Replication](#pillar-6-research-paper-analysis-and-replication)
+  - [Pillar 7: High-Performance AI Systems and Applications](#pillar-7-high-performance-ai-systems-and-applications)
+  - [Pillar 8: Large-scale ETL and Data Engineering](#pillar-8-large-scale-etl-and-data-engineering)
+  - [Pillar 9: Ethical AI and Responsible Development](#pillar-9-ethical-ai-and-responsible-development)
+  - [Pillar 10: Community Engagement and Networking](#pillar-10-community-engagement-and-networking)
+  - [Pillar 11: Research and Publication](#pillar-11-research-and-publication)
+  - [Resources](#resources)
+
 ## My learning approach
 I have a background in Data Science and ML and I've decided to take a recursive approach(going deeper as needed) based on my level of understanding.
 
@@ -33,24 +51,6 @@ To follow me in this journey, consider subscribing to my:
 - [weekly newsletter](https://researchrookie.substack.com/).
 - Learning vlogs at [youtube](https://www.youtube.com/@DataSciencewithHarshit)
 - [Discord for discussions and sharing your learnings](https://discord.gg/ux6K7wEu)
-
-## Table of contents
-- [AI Research Program](#ai-research-program)
-  - [My learning approach](#my-learning-approach)
-  - [How to consume this?](#how-to-consume-this)
-  - [Table of contents](#table-of-contents)
-  - [Pillar 1: Foundational Knowledge](#pillar-1-foundational-knowledge)
-  - [Pillar 2: Programming and Tools](#pillar-2-programming-and-tools)
-  - [Pillar 3: Deep Learning Fundamentals](#pillar-3-deep-learning-fundamentals)
-  - [Pillar 4: Reinforcement Learning](#pillar-4-reinforcement-learning)
-  - [Pillar 5: NLP / LLM Research](#pillar-5-nlp--llm-research)
-  - [Pillar 6: Research Paper Analysis and Replication](#pillar-6-research-paper-analysis-and-replication)
-  - [Pillar 7: High-Performance AI Systems and Applications](#pillar-7-high-performance-ai-systems-and-applications)
-  - [Pillar 8: Large-scale ETL and Data Engineering](#pillar-8-large-scale-etl-and-data-engineering)
-  - [Pillar 9: Ethical AI and Responsible Development](#pillar-9-ethical-ai-and-responsible-development)
-  - [Pillar 10: Community Engagement and Networking](#pillar-10-community-engagement-and-networking)
-  - [Pillar 11: Research and Publication](#pillar-11-research-and-publication)
-  - [Resources](#resources)
 
 
 ## Pillar 1: Foundational Knowledge
