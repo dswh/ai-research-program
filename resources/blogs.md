@@ -16,3 +16,7 @@
 
 ### Tools / best practices for reading and writing research papers
 - [Best AI tools for writing research papers](https://www.reddit.com/r/ArtificialInteligence/comments/1eexqk2/best_ai_tools_for_writing_research_papers_in/)
+
+
+### Attention
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
